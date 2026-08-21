@@ -16,12 +16,14 @@
 ### Week 03 (2026/09/16)
 - p5.js basics – coordinate system, transformations
 - **Assignment** 3: Process Drawing
-- **Reading**: Sol LeWitt, []"Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
+- **Reading**: Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
 
 ### Week 04 (2026/09/23)
 - Iteration, polar coordinates, perlin noise & Plotters
 - **Assignment**: Iteration and plotters
-- **Reading**: Any 10 works from [Grapefruit by Yoko Ono](https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf)
+- **Reading**: 
+  - [A. Michael Noll, "The Beginnings of Computer Art in the United States: A Memoir" (Leonardo 27(1), 1994)](https://monoskop.org/images/5/58/Noll_A_Michael_1994_The_Beginnings_of_Computer_Art_in_the_United_States_A_Memoir.pdf)
+  - [Frieder Nake, "There Should Be No Computer Art" (1971)](https://compart.uni-bremen.de/download/publications/there-should-be-no-computer-art) 
 
 ### Week 05 (2026/09/30)
 - Animating Sprites
