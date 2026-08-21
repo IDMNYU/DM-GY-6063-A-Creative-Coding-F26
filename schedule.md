@@ -28,21 +28,29 @@
 ### Week 05 (2026/09/30)
 - Animating Sprites
 - **Assignment**: Clocks!
-- **Reading**: Art of Interactive Design (Chp 1) by Chris Crawford / [The Media Art Pose](http://www.flong.com/archive/texts/essays/essay_pose/index.html) by Golan Levin
+- **Reading**:
+  - [Clocks](https://github.com/golanlevin/lectures/tree/master/lecture_clock) by Golan Levin
+- **Watch**: [An entire history of time measurement in six minutes](https://www.youtube.com/watch?v=SsULOvIWSUo)
 
 ### Week 06 (2026/10/7)
 - functions and arrays
 - **Assignment**: Looping animations
-- **Reading**: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
+- **Reading**: Queneau, Cent Mille Milliards de Poèmes (1961)
+10 sonnets × 14 lines, each line interchangeable in its slot → 10¹⁴ possible poems from a tiny data structure
+It's literally a running program you read. The physical book is pages cut into strips.
+intro at growndodo.com, interactive English translation at bevrowe.info
 
 ### Week 07 (2026/10/21)
 - Objects, projection mapping
 - **Assignment**: Projection mapping
-- **Reading**: Ways of seeing ([Part 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)) by John Berger
+- **Reading**: 
+  - [The Poetics of Augmented Space, Lev Manovitch](https://manovich.net/content/04-projects/038-the-poetics-of-augmented-space/31_article_2002.pdf)
 
 ### Week 08 (2026/10/28)
 - ML5.js, gestural interaction
 - **Assignment**: gestural control
+- **Reading**: 
+  - Rokeby "Transforming Mirrors" 
 
 ### Week 09 (2026/11/04)
 - Cameras and images
@@ -51,12 +59,12 @@
 ### Week 10 (2026/11/11)
 - Audio Input and Visualization
 - **Assignment**: Sound visualization
-- **Reading**: The Atlas of AI (Intro) by Kate Crawford / [New Extractivism](https://extractivism.online/) by Vladan Joler
+- **Reading**: 
 
 ### Week 11 (2026/11/18)
 - pulling data from other sources (API intro)
 - **Assignment**: Data Viz
-- **Reading**: Race After Technology (Intro) by Ruha Benjamin
+- **Reading**: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
 
 ### Week 12 (2026/11/25)
 - Machine learning systems, Teachable Machine
