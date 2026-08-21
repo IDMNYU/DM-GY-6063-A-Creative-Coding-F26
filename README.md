@@ -59,15 +59,13 @@ Assignment submissions will be made through your github account.
 
 Each week you will also read and respond to a short text about programming, technology, and/or social issues involving programming and technology.
 
-The responses will be short, 200-word texts written to express your opinion and feelings about the text and the subject.
+We will have active discussions in class each week abotu these readings, and you will be expected to lead the conversation each week with a question or insight.
 
 ### Projects
 
-There will be a few multi-week projects throughout the semester. You will take one of these and refine it as a final project. 
+There will be a few multi-week projects throughout the semester.
 
 The content of these projects are largely up to you to define, but the projects should demonstrate significant mastery over the technical concepts discussed in class.
-
-You will be responsible for keeping a blog that documents progress of the project, and for presenting the final version of your project in class.
 
 ### Participation
 
@@ -101,9 +99,9 @@ Letter grades for the entire course will be assigned as follows:
 ## Course Schedule (subject to change)
 
 ### Week 01 (2026/09/02)
-- Review Syllabus
 - Introductions
-- WCreative coding tools and philosophies
+- Review Syllabus
+- Creative coding tools and philosophies
 - Setting up dev environment
 - Assignment: setting up dev environment, creating a repo
 - Reading: Program or Be Programmed (Intro) by Douglas Rushkoff
@@ -180,7 +178,7 @@ Students should expect to spend roughly 5 hours each week on supplemental work i
 
 ## Office Hours
 
-I will be available for 2 hours a week to answer questions, help with assignments, chat about creative code, etc. on Wednesdays from 3pm-5pm [by appointment](https://calendar.app.google/6yKjDgyeGzxupfGT6).
+I will be available outside of class each week to answer questions, help with assignments, chat about creative code, etc. on Wednesdays from 3pm-5pm [by appointment](https://calendar.app.google/6yKjDgyeGzxupfGT6).
 
 If you have questions or need help with some aspect of the material, but are unable to attend these, send me an email and we'll find a time to meet.
 
@@ -198,7 +196,16 @@ There are no books required to purchase for class. Required reading material wil
 
 These books are excellent companions for the materials we'll be covering:
 
-{% include books.html %}
+- **Getting Started with p5.js**, Lauren McCarthy, Casey Reas, Ben Fry https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990044908020107876
+
+- **Generative Design (2nd ed)**, Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990064434910107871 , [book website](http://www.generative-gestaltung.de/2/)
+
+- **Form + Code in Design, Art, and Architecture** Casey Reas, Chandler McWilliams https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma990035275100107876 [book website](https://formandcode.com/code-examples/)
+
+- **The Nature of Code**, Daniel Shiffman https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma99100331703207871 [book website](https://natureofcode.com)
+
+- **Code as a Creative Medium** tega Brain, Golan Levin https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990079564990107871
+
 
 ## Resources
 
