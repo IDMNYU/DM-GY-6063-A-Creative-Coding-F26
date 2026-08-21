@@ -1,4 +1,5 @@
 ---
+permalink: /
 ---
 # NYU | Tandon School of Engineering<br>Integrated Design & Media
 
