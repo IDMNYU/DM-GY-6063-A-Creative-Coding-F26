@@ -278,8 +278,7 @@ Please review [NYU's School of Engineering's academic dishonesty policy](https:/
 
 All work for this class must be our own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable.
 
-This includes copying code for other sources, using code from other sources with only slight modifications and using code from other sources without a reference.
-
+This includes copying code for other sources, using code from other sources with only slight modifications and using code from other sources without a reference. These sources may be a git repo, an LLM, code published on the internet, in a youtube tutorial, or other source. Regardless of where it came from, you must give attribution. 
 
 ### A Special Note on Open Source and "Found Code"
 
