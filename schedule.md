@@ -1,6 +1,6 @@
 ## Course Schedule (subject to change)
 
-### Week 01 (2026/09/02)
+### [Week 01 (2026/09/02)](week1/)
 - Introductions
 - Review Syllabus
 - Creative coding tools and philosophies
