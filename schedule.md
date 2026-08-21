@@ -11,17 +11,17 @@
 ### Week 02 (2026/9/9)
 - Scripting, The DOM, variables and randomness
 - **Assignment**: Creative Coding is…
-- **Reading**: Software Studies: A Lexicon (Intro) by Matthew Fuller
+- **Reading**: [10 PRINT, ch. 4, pp. 119–128 ](https://10print.org/10_PRINT_121114.pdf)
 
 ### Week 03 (2026/09/16)
 - p5.js basics – coordinate system, transformations
 - **Assignment** 3: Process Drawing
-- **Reading**: Glitch Feminism (Intro) by Legacy Russell / [Cyberfeminism Index](https://cyberfeminismindex.com/)
+- **Reading**: Sol LeWitt, []"Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
 
 ### Week 04 (2026/09/23)
 - Iteration, polar coordinates, perlin noise & Plotters
 - **Assignment**: Iteration and plotters
-- **Reading**: Grapefruit by Yoko Ono
+- **Reading**: Any 10 works from [Grapefruit by Yoko Ono](https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf)
 
 ### Week 05 (2026/09/30)
 - Animating Sprites
