@@ -5,7 +5,7 @@
 - Review Syllabus
 - Creative coding tools and philosophies
 - Setting up dev environment
-- **Assignment**: [setting up dev environment, creating a repo](asignment.html)
+- **Assignment**: [setting up dev environment, creating a repo](week1/assignment.html)
 - **Reading**:  Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_1_1) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
 
 ### Week 02 (2026/9/9)
