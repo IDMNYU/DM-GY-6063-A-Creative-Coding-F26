@@ -6,17 +6,22 @@
 - Creative coding tools and philosophies
 - Setting up dev environment
 - **Assignment**: [setting up dev environment, creating a repo](week1/assignment.html)
-- **Reading**:  Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_1_1) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
+- **Reading**:  
+  - Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_1_1) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
+  - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 2 "Randomness" (~10 pp, image-heavy)
 
 ### Week 02 (2026/9/9)
 - Scripting, The DOM, variables and randomness
 - **Assignment**: Creative Coding is…
-- **Reading**: [10 PRINT, ch. 4, pp. 119–128 ](https://10print.org/10_PRINT_121114.pdf)
+- **Reading**: 
+  - [10 PRINT, ch. 4, pp. 119–128 ](https://10print.org/10_PRINT_121114.pdf)
 
 ### Week 03 (2026/09/16)
 - p5.js basics – coordinate system, transformations
 - **Assignment** 3: Process Drawing
-- **Reading**: Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
+- **Reading**: 
+  - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
+  - _optional_ LeWitt, "Sentences on Conceptual Art" (1969)
 
 ### Week 04 (2026/09/23)
 - Iteration, polar coordinates, perlin noise & Plotters
@@ -35,10 +40,8 @@
 ### Week 06 (2026/10/7)
 - functions and arrays
 - **Assignment**: Looping animations
-- **Reading**: Queneau, Cent Mille Milliards de Poèmes (1961)
-10 sonnets × 14 lines, each line interchangeable in its slot → 10¹⁴ possible poems from a tiny data structure
-It's literally a running program you read. The physical book is pages cut into strips.
-intro at growndodo.com, interactive English translation at bevrowe.info
+- **Reading**: 
+  - [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/), Bret Victor
 
 ### Week 07 (2026/10/21)
 - Objects, projection mapping
@@ -50,11 +53,13 @@ intro at growndodo.com, interactive English translation at bevrowe.info
 - ML5.js, gestural interaction
 - **Assignment**: gestural control
 - **Reading**: 
-  - Rokeby "Transforming Mirrors" 
+  - [Rokeby "Transforming Mirrors"](http://www.davidrokeby.com/mirrors.html) 
 
 ### Week 09 (2026/11/04)
 - Cameras and images
 - **Assignment**: Using the camera as an input device
+- **Reading**:
+  - 
 
 ### Week 10 (2026/11/11)
 - Audio Input and Visualization
