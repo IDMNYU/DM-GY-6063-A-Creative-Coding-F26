@@ -59,12 +59,14 @@
 - Cameras and images
 - **Assignment**: Using the camera as an input device
 - **Reading**:
-  - 
+  - ["In Defense of the Poor Image" by Hito Steyerl](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image). e-flux Journal Issue #10 November 2009
+
 
 ### Week 10 (2026/11/11)
 - Audio Input and Visualization
 - **Assignment**: Sound visualization
 - **Reading**: 
+  - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https://www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.
 
 ### Week 11 (2026/11/18)
 - pulling data from other sources (API intro)
@@ -74,12 +76,15 @@
 ### Week 12 (2026/11/25)
 - Machine learning systems, Teachable Machine
 - **Assignment**: Working with models
-- **Reading**: The Marvelous Clouds (Intro) by John Durham Peters / [Worlds In Figures](https://worldsinfigures.com/tutorial) by Evan Roth
+- **Reading**: 
+  - [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen   
 
 ### Week 13 (2026/12/02)
 - Generating text with LLMs via APIs
 - **Assignment**: Working with models
-- ****Reading****: The Question Concerning Technology in China (Intro) by Yuk Hui
+- **Reading**:
+  - Ted Chiang, "[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)" (The New Yorker, Feb 2023) 
+  - Allison Parrish, "[Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)"
 
 ### Week 14 (2026/12/09)
 - Final Project: Workshop
