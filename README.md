@@ -60,7 +60,7 @@ Assignment submissions will be made through your github account.
 
 Each week you will also read and respond to a short text about programming, technology, and/or social issues involving programming and technology.
 
-We will have active discussions in class each week abotu these readings, and you will be expected to lead the conversation each week with a question or insight.
+We will have active discussions in class each week about these readings, and each of you will be expected to lead the conversation on a few weeks with a question or insight.
 
 ### Projects
 
@@ -88,18 +88,22 @@ Letter grades for the entire course will be assigned as follows:
 
 | Letter Grade | Points | Overall Percent |
 | --- | --- | --- |
-| A | 4.00 | 90% - 100% |
-| B+ | 3.33 | 85% - 89.99% |
-| B | 3.00 | 80% - 84.99% |
-| C+ | 2.33 | 75% - 79.99% |
-| C | 2.00 | 70% - 74.99% |
-| D+ | 1.33 | 65% - 69.99% |
-| D | 1.00 | 60% - 64.99% |
+| A | 4.00 | 93% - 100% |
+| A- | 3.67 | 90% - 92.99% |
+| B+ | 3.33 | 87% - 89.99% |
+| B | 3.00 | 83% - 86.99% |
+| B- | 2.67 | 80% - 82.99% |
+| C+ | 2.33 | 77% - 79.99% |
+| C | 2.00 | 73% - 76.99% |
+| C- | 1.67 | 70% - 72.99% |
+| D+ | 1.33 | 67% - 69.99% |
+| D | 1.00 | 63% - 66.99% |
+| D- | .67 | 60% - 62.99% |
 | F | 0.00 | 0% - 59.99% |
 
 ## Expectations for Work Outside the Classroom
 
-Students should expect to spend roughly 5 hours each week on supplemental work in this course. This may include reading assignments, homework assignments, writing assignments, research, studying, etc.
+Students should expect to spend roughly 5 hours each week on supplemental work in this course. This may include reading, coding, writing responses, research, studying, etc.
 
 ## Office Hours
 
@@ -130,14 +134,6 @@ These books are excellent companions for the materials we'll be covering:
 - **The Nature of Code**, Daniel Shiffman https://search.library.nyu.edu/permalink/01NYU_INST/1d6v258/alma99100331703207871 [book website](https://natureofcode.com)
 
 - **Code as a Creative Medium** tega Brain, Golan Levin https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990079564990107871
-
-
-## Resources
-
-- [Class Website](https://6063B.github.io/)
-- [Books, articles, etc](https://library.nyu.edu)
-- [NYU Writing Center](https://nyu.mywconline.com)
-- [NYU IT Service](https://nyu.edu/it/servicedesk)
 
 ---
 
@@ -195,6 +191,34 @@ Also, these observations from a [discussion about ethics in tech](https://www.cr
 
 Be sensitive to what your classmates might find offensive, triggering or violent and be graceful and listen carefully when your work gets called out for being offensive, triggering or violent.
 
+### A Special Note on Open Source and "Found Code"
+
+tl;dr: Copying  code from other sources, using any code from other sources with only slight modifications, or using any code from other sources without a reference is plagiarism.
+
+There's an amount of sharing and re-using that will happen in this course due to the open source nature of the tools and learning materials we will be using. Assignments will be turned in using github, a platform expressly created for sharing code and other content.
+
+You must be careful and conscious about the difference between using tools and media that help with learning and submitting other people's work as your own. It's not hard to find code online that will do things similar to, or exactly alike, the things you will developing for this class. It is **NOT permissible** to use those as part of an assignment or project for this class.
+
+It is not hard to find code/libraries/packages/examples that solve specific technical tasks that are part of a larger project or assignment. For example: a library that converts gifs into movies or code for working with different text encodings. These are specific tasks that we aren't going to solve on our own, so using a pre-exiting solution is acceptable and expected.
+
+You are expected to cite any tutorials, examples, libraries or inspiration that you use for our work. Sometimes authors have a specific way they'd like their work cited (CC licenses), otherwise a name and a link will be sufficient. Ultimately though, you are responsible for proper documentation and acknowledgement of any code you present.
+
+If there are questions about a specific situation, please ask.
+
+### A Special Note on LLMs and Large Diffusion Models
+
+This is a class about creative uses of technology, and LLMs and interfaces like ChatGPT, Midjourney, etc. definitely have their place in discussions about technology, society and creativity. It is irresponsible to ignore the existence of these tools. While you will invariably use these tools later in your academic and professional careers, we're giving you tools that have guardrails so that you can gain experience working with them *and* learn the fundamentals. 
+
+You have sanctioned generative models which have been trained on this course's content. Each week you gain access to a new model that you may use for asking questions and assiting with your work. You may *not* use CoPilot, Claude Code, ChatGPT, a general Gemini intrerface or some other tool in this course outside of select late-term assignments where you will be building an interface to these tools. If you are found using a non-sanctioned model for any of this course, you will receive a 0 for the assignment.
+
+You must credit any work you have used these sanctioned models for, you may NOT submit any work generated by the tool as your own.
+
+Given that this is an introductory course to programming, there is no situation that warrants the use of these tools for generating code. Save that for a future when you might have to write tedious software for comparing large corpora of texr. There should be a sense of play and exploration in the code you are writing, and a sense of accomplishment in learning how to make computers do things. This exploration doesn’t justify the use of tools that generate code.
+
+Writing/response assignments will be short and personal, asking not only for your understanding of the material, but also your thoughts, interpretations, opinions and concerns about certain topics related to art, design, society and technology. Don’t sell yourself short! I want to hear your voice and words regarding these topics. If you are found to be using an LLM of any sort for your responses, you will get a 0 for that assignment. 
+
+If you are in violation of this policy more than once, your final grade for the class will be docked by 10 points (equivalent to a full letter grade or more) 
+
 ### Academic Integrity
 
 Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System. Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
@@ -204,38 +228,6 @@ Please review [NYU's School of Engineering's academic dishonesty policy](https:/
 All work for this class must be our own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable.
 
 This includes copying code for other sources, using code from other sources with only slight modifications and using code from other sources without a reference. These sources may be a git repo, an LLM, code published on the internet, in a youtube tutorial, or other source. Regardless of where it came from, you must give attribution. 
-
-### A Special Note on Open Source and "Found Code"
-
-There's an amount of sharing and re-using that will happen in this course due to the open source nature of the libraries, tools and learning materials we will be using. Plus a lot of assignments will be turned in using github, a platform for sharing code and other content.
-
-Nonetheless, we have to be careful and conscious about the difference between using available tools that help with our learning experience and submitting other people's work as our own. It's not hard to find code online that will do things similar to, or exactly alike, the things you will developing for this class. It is NOT ok to use those as part of an assignment or project for this class.
-
-On the other hand, it's also not hard to find code/libraries/packages/examples that solve specific technical tasks that are part of a larger project or assignment. For example: a library that converts gifs into movies or code for working with different text encodings. These are specific tasks that we aren't going to solve on our own, so using an open source solution is acceptable and expected.
-
-You are expected to cite any tutorials, examples, libraries or inspiration that you use for our work. Sometimes the authors have a specific way they'd like their work cited (CC licenses), otherwise a name and a link is fine.
-
-TL;DR: Copying assignment code from other sources, using any code from other sources with only slight modifications or using any code from other sources without a reference is plagiarism.
-
-If there are questions about a specific situation, please ask.
-
-### A Special Note on LLMs and Large Diffusion Models
-
-This is a class about creative uses of technology, and LLMs and interfaces like ChatGPT, Midjourney, etc definitely have their place in discussions about technology, society and creativity. Being in the environment we are in, it has become impossible to ignore these tools.
-
-Having said that....
-
-You have sanctioned generative models which have been trained on this course's content. Each week you gain access to a new model that you may use for asking questions and assiting with your work. You may *not* use CoPilot, Claude Code, ChatGPT, a general Gemini intrerface or some other tool in this course outside of select late-term assignments where you will be building an interface to these tools. If you are found using a non-sanctioned model for any of this course, you will receive a 0 for the assignment. 
-
-While you will invariably use these tools later in your academic and professional careers, we're giving you tools that have guardrails so that you can gain experience working with them *and* learn the fundamentals. 
-
-You must credit any work you have used one of these models for, you may NOT submit any work generated by these interfaces as your own.
-
-Given that this is an introductory course to programming, and we're all starting fresh, there is no situation that warrants the use of these tools for generating code. Save that for a future when you might have to write tedious software for parsing/flipping/transforming database entries. There should be an aura of fun to the code you are writing, and a sense of accomplishment in learning how to make computers do unexpected things, that doesn’t justify the use of tools that generate code.
-
-Likewise, writing/response assignments will be short and personal, asking not only for your understanding of the material, but also your thoughts, interpretations, opinions and concerns about certain topics related to art, design, society and technology. Don’t sell yourself short! I want to hear your voice and words regarding these topics.
-
----
 
 ## Academic Accommodations
 
