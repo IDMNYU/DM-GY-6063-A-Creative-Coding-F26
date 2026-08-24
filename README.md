@@ -7,7 +7,7 @@ permalink: /
 
 - Instructor: [Scott Fitzgerald](https://droolcup.com)
 - email: [scott.fitzgerald@nyu.edu](mailto:scott.fitzgerald@nyu.edu)
-- Website: [https://idmnyu.github.io/DM-GY-6063-Creative-Coding/](https://idmnyu.github.io/DM-GY-6063-Creative-Coding/)
+- Website: [[https://idmnyu.github.io/DM-GY-6063-A-Creative-Coding-F26]](https://idmnyu.github.io/DM-GY-6063-A-Creative-Coding-F26/)
 - Class meeting: Wednesdays 11am - 1:50pm 370 Jay Street, Room 308
 - Office Hours: Wed 3pm-5pm, ([by appointment](https://calendar.app.google/6yKjDgyeGzxupfGT6)), 370 Jay Street Room 352
 
