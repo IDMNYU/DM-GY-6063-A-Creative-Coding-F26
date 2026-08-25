@@ -5,6 +5,7 @@
 
 ### Review
 - [arrays](https://idmp5.github.io/coding/arrays/)
+- [cycles](https://idmp5.github.io/creative-coding/cycles/)
 - [p5.sprite](https://github.com/RandomGamingDev/p5.Sprite/)
 
 ### Assignment

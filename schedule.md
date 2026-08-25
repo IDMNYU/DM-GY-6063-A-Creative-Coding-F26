@@ -40,39 +40,40 @@
 - Animation & Sprites
 - **Assignment**: Clocks
 - **Reading**:
-  - [Clocks](https://github.com/golanlevin/lectures/tree/master/lecture_clock) by Golan Levin
-- **Watch**: [An entire history of time measurement in six minutes](https://www.youtube.com/watch?v=SsULOvIWSUo)
+  - Clocks by Golan Levin
+- **Watch**: An entire history of time measurement in six minutes
 
 
 ### [Week 06 (2026/10/7)](week6/)
 - functions and arrays
 - **Assignment**: Looping animations
 - **Reading**: 
-  - [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/), Bret Victor
+  - Up and Down the Ladder of Abstraction, Bret Victor
 
 ### [Week 07 (2026/10/21)](week7/)
 - Objects, projection mapping
 - **Assignment**: Projection mapping
 - **Reading**: 
-  - [The Poetics of Augmented Space, Lev Manovitch](https://manovich.net/content/04-projects/038-the-poetics-of-augmented-space/31_article_2002.pdf)
+  - The Poetics of Augmented Space, Lev Manovitch
 
 ### [Week 08 (2026/10/28)](week8/)
-- ML5.js, gestural interaction
-- **Assignment**: gestural control
-- **Reading**: 
-  - [Rokeby "Transforming Mirrors"](http://www.davidrokeby.com/mirrors.html) 
-
-### [Week 09 (2026/11/04)](week9/)
 - Cameras and images
 - **Assignment**: Using the camera as an input device
 - **Reading**:
-  - ["In Defense of the Poor Image" by Hito Steyerl](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image). e-flux Journal Issue #10 November 2009
+  - "In Defense of the Poor Image" by Hito Steyerl
+
+### [Week 09 (2026/11/04)](week9/)
+- ML5.js
+- gestural interaction
+- **Assignment**: gestural control
+- **Reading**: 
+  - Rokeby "Transforming Mirrors"
 
 ### [Week 10 (2026/11/11)](week10/)
 - Audio Input and Visualization
 - **Assignment**: Sound visualization
 - **Reading**: 
-  - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https://www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.
+  - Alexander, Amy, and Nick Collins. “Live Audiovisuals.”
 
 ### [Week 11 (2026/11/18)](week11/)
 - pulling data from other sources (API intro)
@@ -83,14 +84,14 @@
 - Machine learning systems, Teachable Machine
 - **Assignment**: Working with models
 - **Reading**: 
-  - [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen   
+  - Excavating AI By Kate Crawford and Trevor Paglen   
 
 ### [Week 13 (2026/12/02)](week13/)
 - Generating text with LLMs via APIs
 - **Assignment**: Working with models
 - **Reading**:
-  - Ted Chiang, "[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)" (The New Yorker, Feb 2023) 
-  - Allison Parrish, "[Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)"
+  - Ted Chiang, "ChatGPT Is a Blurry JPEG of the Web" (The New Yorker, Feb 2023) 
+  - Allison Parrish, "Language models can only write poetry"
 
 ### Week 14 (2026/12/09)
 - Final Project: Workshop

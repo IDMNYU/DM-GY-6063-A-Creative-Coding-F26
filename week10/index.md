@@ -1,21 +1,20 @@
-## Week 1
+## Week 10
 ### Topics
-- Introductions
-- Review Syllabus
-- Creative coding tools and philosophies
-- Setting up dev environment
+- Sound files
+- sound processing
+- Sound synthesis
 
 ### Review
-- [Programming Computers](https://idmp5.github.io/intro/programming/)
-- [The browser and javascript](https://idmp5.github.io/intro/javascript/)
-- [setting up an IDE](https://idmp5.github.io/intro/ide/)
-- [Git and GitHub](https://idmp5.github.io/intro/git/)
+- [sound files](https://idmp5.github.io/creative-coding/sound-files/)
+- [sound synthesis]()
+- [sound processing](https://idmp5.github.io/creative-coding/sound-processing/)
+
 
 ### Assignment
-- **Assignment**: [setting up dev environment, creating a repo](asignment.html)
+- **Assignment**: [Sound visualization](asignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 1](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 10](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
 
 ### Reading:  
-- Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3338867&ppg=16&c=UERG) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
+  - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https://www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.

@@ -6,6 +6,7 @@
 
 ### Review
 - [more random](https://idmp5.github.io/creative-coding/more-random/)
+- [sin & cos](https://idmp5.github.io/creative-coding/sincos/)
 - [functions](https://idmp5.github.io/coding/functions/)
 - [p5.svg](https://github.com/golanlevin/p5.plotSvg)
 
