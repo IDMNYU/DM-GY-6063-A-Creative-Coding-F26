@@ -12,8 +12,8 @@
 - [Git and GitHub](https://idmp5.github.io/intro/git/)
 
 ### Assignments
-  - [setting up dev environment, creating a repo](week1/assignment.html)
-  - [Creative Coding is…](week1/coding_is.html))
+  - [setting up dev environment, creating a repo](assignment.html)
+  - [Creative Coding is…](coding_is.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 1](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
