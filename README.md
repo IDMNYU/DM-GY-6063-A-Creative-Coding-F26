@@ -78,11 +78,10 @@ The grade for this course will be determined according to the following:
 
 | Activity | % of Final Grade |
 | --- | --- |
-| Weekly Programming Assignments | 30% |
-| Weekly Reading Responses | 15% |
-| Weekly Participation Responses | 5% |
-| Midterm Project | 20% |
-| Final Project | 30% |
+| Weekly Assignments | 45% |
+| Weekly Reading Responses | 20% |
+| Class Participation | 20% |
+| Final Project | 15% |
 
 Letter grades for the entire course will be assigned as follows:
 
