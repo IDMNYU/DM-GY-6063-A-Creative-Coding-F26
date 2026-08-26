@@ -62,11 +62,9 @@ Each week you will also read and respond to a short text about programming, tech
 
 We will have active discussions in class each week about these readings, and each of you will be expected to lead the conversation on a few weeks with a question or insight.
 
-### Projects
+### Final Project
 
-There will be a few multi-week projects throughout the semester.
-
-The content of these projects are largely up to you to define, but the projects should demonstrate significant mastery over the technical concepts discussed in class.
+Your final project will have you revisiting an earlier homework assignment and polishing, bringing it to the 'next level' you will have a few wweks to work on this at the end of the semester. 
 
 ### Participation
 
