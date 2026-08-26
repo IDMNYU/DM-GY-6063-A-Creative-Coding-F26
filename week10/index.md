@@ -11,10 +11,10 @@
 
 
 ### Assignment
-- **Assignment**: [Sound visualization](asignment.html)
+- **Assignment**: [Sound visualization](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 10](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 10]()
 
 ### Reading:  
   - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https://www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.

@@ -12,7 +12,7 @@
 - **Assignment**: gestural control
 
 ### This week's LLM
-- [IDM Creative Coding Week 8](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 9]()
 
 ### Reading:  
 - [Rokeby "Transforming Mirrors"](http://www.davidrokeby.com/mirrors.html) 

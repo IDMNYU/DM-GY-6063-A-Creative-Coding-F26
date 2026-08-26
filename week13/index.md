@@ -12,7 +12,7 @@
 - **Assignment**: Working with models
 
 ### This week's LLM
-- [IDM Creative Coding Week 13](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 13]()
 
 ### Reading:  
   - Ted Chiang, "[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)" (The New Yorker, Feb 2023) 

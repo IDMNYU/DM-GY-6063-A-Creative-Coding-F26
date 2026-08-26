@@ -15,11 +15,11 @@
 - [randomness](https://idmp5.github.io/coding/random/)
 
 ### Assignment
-- **Assignment**: [Process Drawing](asignment.html)
+- **Assignment**: [Process Drawing](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/56d3647c-5035-4f68-b540-552d339db1d9)
 
 ### Reading:  
   - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
-  - _optional_ LeWitt, "Sentences on Conceptual Art" (1969)
+  - _optional_ [LeWitt, "Sentences on Conceptual Art" (1969)](http://www.multimedialab.be/doc/citations/sol_lewitt_sentences.pdf)

@@ -9,7 +9,7 @@
 - **Assignment**: Data Visualization
 
 ### This week's LLM
-- [IDM Creative Coding Week 11](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 11]()
 
 ### Reading:  
 - W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste

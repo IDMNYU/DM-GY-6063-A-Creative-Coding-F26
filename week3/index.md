@@ -12,10 +12,10 @@
 - [p5.polar](https://github.com/liz-peng/p5.Polar)
 
 ### Assignment
-- **Assignment**: [Iteration Generation Part 1](asignment.html)
+- **Assignment**: [Iteration Generation Part 1](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 3](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
+- [IDM Creative Coding Week 3]()
 
 ### Reading:  
   - [A. Michael Noll, "The Beginnings of Computer Art in the United States: A Memoir" (Leonardo 27(1), 1994)](https://monoskop.org/images/5/58/Noll_A_Michael_1994_The_Beginnings_of_Computer_Art_in_the_United_States_A_Memoir.pdf)
