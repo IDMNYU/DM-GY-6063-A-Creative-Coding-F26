@@ -20,14 +20,17 @@
 - [Rafaël Rozendaal](https://www.newrafael.com/internet)
 - [superbad.com](https://www.superbad.com)
 
+### Reading:  
+- Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://drive.google.com/file/d/1Eb1RoD6nDy-J6M-CVTMmr-newKXV3NTE/view?usp=sharing) & chapter on "[Code](https://drive.google.com/file/d/1TJlxsZcHbFLdbXwoqxtyHnARchUWx86A/view?usp=sharing)").
+- Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), [ch. 1 "What is Code?"](https://drive.google.com/file/d/1zqiSXlg5MHfPxs5z-f1YApc4XM9UMRoh/view?usp=sharing)
+
 ### Assignments
   - [setting up dev environment, creating a repo](assignment.html)
   - [Creative Coding is…](coding_is.html)
   - [post your github repo here](https://docs.google.com/spreadsheets/d/1EwalLVu_aMAml6nOrsbaDYu_lYRrEmnR0_nJotdE0_c/edit?gid=0#gid=0)
+  - Write a short (200-250 words) response to the readings in your week1 README.md. What do you think code is, how do you see it workig for - or against - you. Is there anythig you're excited to try or learn this semster?
 
 ### This week's LLM
 - [IDM Creative Coding Week 1](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
 
-### Reading:  
-- Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3338867&ppg=16&c=UERG) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
-- Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?" (distribued via Brightspace)
+
