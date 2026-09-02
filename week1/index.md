@@ -13,16 +13,17 @@
 - [Videos on using VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 ### Inspiration
-- [Whitney Artport]
-- [Rhizome]
+- [Whitney Artport](https://whitney.org/artport/)
+- [Rhizome](https://rhizome.org/tags/artworks/)
 - [0100101110101101.org](https://0100101110101101.org)
-- [JODI]
-- [Rafael Rosendaal]
+- [JODI - wwwwwwwww.jodi.org](https://wwwwwwwww.jodi.org)
+- [Rafaël Rozendaal](https://www.newrafael.com/internet)
 - [superbad.com](https://www.superbad.com)
 
 ### Assignments
   - [setting up dev environment, creating a repo](assignment.html)
   - [Creative Coding is…](coding_is.html)
+  - post your github repo here
 
 ### This week's LLM
 - [IDM Creative Coding Week 1](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
