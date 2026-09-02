@@ -23,7 +23,7 @@
 ### Assignments
   - [setting up dev environment, creating a repo](assignment.html)
   - [Creative Coding is…](coding_is.html)
-  - post your github repo here
+  - [post your github repo here](https://docs.google.com/spreadsheets/d/1EwalLVu_aMAml6nOrsbaDYu_lYRrEmnR0_nJotdE0_c/edit?gid=0#gid=0)
 
 ### This week's LLM
 - [IDM Creative Coding Week 1](https://notebook.google.com/notebook/71e73e96-5583-456c-9d6b-09dba579f33f)
