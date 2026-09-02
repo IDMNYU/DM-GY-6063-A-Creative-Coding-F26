@@ -10,6 +10,15 @@
 - [The browser and javascript](https://idmp5.github.io/intro/javascript/)
 - [setting up an IDE](https://idmp5.github.io/intro/ide/)
 - [Git and GitHub](https://idmp5.github.io/intro/git/)
+- [Videos on using VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
+
+### Inspiration
+- [Whitney Artport]
+- [Rhizome]
+- [0100101110101101.org](https://0100101110101101.org)
+- [JODI]
+- [Rafael Rosendaal]
+- [superbad.com](https://www.superbad.com)
 
 ### Assignments
   - [setting up dev environment, creating a repo](assignment.html)

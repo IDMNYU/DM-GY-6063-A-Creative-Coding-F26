@@ -14,12 +14,12 @@ VSCode is the code editor we will be using in this class. It is essentially a fa
 - Install VSCode
 - Open VSCode and install the [p5v2.0 project generator](https://marketplace.visualstudio.com/items?itemName=Irti.p5js-project-generator) which will also include the LiveServer extension and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-The easiest way to install extensions is to click on the extension icon in the code editor, and to search for the extensions by name, after which you can click the "install" button. ([video](https://www.youtube.com/watch?v=epQgFt4NTPI))
+The easiest way to install extensions is to click on the extension icon in the code editor, and to search for the extensions by name, after which you can click the "install" button. ([video](https://stream.nyu.edu/media/Install+and+set+up+VS+Code/1_0cpl8krk))
 
 ### Creating a course repo
-Everything you do in this course will be contained in one folder. A GitHub Repository or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
+Everything you do in this course will be contained in one folder on your computer. A GitHub Repository or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
 
-- Go to this link: https://github.com/DM-GY-6063-A/CC-template/
+- Go to this link: [https://github.com/shfitz/DM-GY-6063-template](https://github.com/shfitz/DM-GY-6063-template)
 - Click the "Use this template" button and select "create a new repository":
 ![Screenshot of the github interface](media/template.png)
 - Give your repository a name like this: "CC-[your NetID]". Make sure the repository is set to Public, as this will allow you to publish a website.
@@ -45,4 +45,4 @@ Everything you do in this course will be contained in one folder. A GitHub Repo
 - Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
 
 ### Testing the setup
-Submit a link to your edited readme file to demonstrate that you've successfully pushed your changes to Github.
+[Submit a link to your github repo with the changes on this spreadsheet](https://docs.google.com/spreadsheets/d/1EwalLVu_aMAml6nOrsbaDYu_lYRrEmnR0_nJotdE0_c/edit?usp=sharing) to demonstrate that you've successfully pushed your changes to Github.
