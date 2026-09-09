@@ -1,4 +1,4 @@
-## Week 3
+## Week 2
 ### Topics
 - homework
   - review HTML & DOM
@@ -18,7 +18,7 @@
 - **Assignment**: [Process Drawing](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/56d3647c-5035-4f68-b540-552d339db1d9)
+- [IDM Creative Coding Week 2]()
 
 ### Reading:  
   - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
