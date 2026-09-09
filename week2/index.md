@@ -1,9 +1,10 @@
 ## Week 2
 ### Topics
 - homework
-  - review HTML & DOM
+  - review "what is creative coding"
   - Fuller discussion
 - p5.js basics
+  - set up a project
   - coordinate system
   - transformations
   - drawing primitives
