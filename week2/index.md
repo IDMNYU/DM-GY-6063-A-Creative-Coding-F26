@@ -3,7 +3,7 @@
 - homework
   - review "what is creative coding"
   - Fuller discussion
-- p5.js basics
+- p5.js basics - [slides](https://drive.google.com/file/d/1UZmWmiGNppq3nPAk6Qd4DEFS7Y4sQTMa/view?usp=sharing)
   - set up a project
   - coordinate system
   - transformations
@@ -24,11 +24,11 @@
 - [Mark Rothko](https://www.nga.gov/artists/1839-mark-rothko)
 - [Bauhaus Color Theory](https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/)
 
-### Assignment
-- [Process Drawing](assignment.html)
-
 ### This week's LLM
 - [IDM Creative Coding Week 2]([https://idmp5.github.io/creative-coding/interactions/](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31))
+
+### Assignment
+- [Process Drawing](assignment.html)
 
 ### Reading:  
   - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
