@@ -25,7 +25,7 @@
 - [Bauhaus Color Theory](https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/)
 
 ### This week's LLM
-- [IDM Creative Coding Week 2]([https://idmp5.github.io/creative-coding/interactions/](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31))
+- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31)
 
 ### Assignment
 - [Process Drawing](assignment.html)
