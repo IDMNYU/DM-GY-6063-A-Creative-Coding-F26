@@ -1,6 +1,7 @@
 ## Week 3
 ### Topics
 - More about variables
+- Conditionals
 - Iteration
 - Loops
 
