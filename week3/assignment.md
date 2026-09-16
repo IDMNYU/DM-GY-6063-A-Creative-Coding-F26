@@ -1,5 +1,5 @@
 ## Iteration Generation
-Using a recursive or iterative logic, create a drawing that repeats a simple form into a generative pattern. Drawing inspiration from early computer artists like Molnar and Nake, create a program that applies a particular transformation iteratively. Use this program to generate an SVG file that we will render using a pen plotter.
+Using a recursive or iterative logic, create a drawing that repeats a simple form into a generative pattern. Drawing inspiration from early computer artists like Molnar and Nake, create a program that applies a particular transformation iteratively. 
 
 The following example logic may be helpful as you determine how to create your project:
 
@@ -8,6 +8,7 @@ The following example logic may be helpful as you determine how to create your p
 - Create a two dimensional for loop, repeating your shapes down the Y axis as well.
 - Once you have a repeating pattern that fills the entire canvas, experiment with ways of shifting the color, style or transformation of the shapes as they advance down the Y axis
 - Experiment with ways of incorporating mouse input to manipulate an aspect of the drawing (color, size of certain elements, transformations, etc).
-- make a version that uses the p5.Polar library, how does this differ from your origianl version? What does it afford you to experiment with that your 'brute force' method might not account for? 
+- work through three different ideas and create a separate page or each. You can save these all in a directory named `/week3` with unique names. For exampl, you could have index1.html, index2.html, index3.html. Each html file will have a separate associated sketch.js file as well (sketch1.js, sketch2.js...) 
+- BONUS: make a version that uses the [p5.Polar library](https://github.com/liz-peng/p5.Polar), how does this differ from your origianl version? What does it afford you to experiment with that your 'brute force' method might not account for?
 
 Next week, you will refine this sketch and revise it for a pen plotter using the [svg library](https://github.com/golanlevin/p5.plotSvg)
