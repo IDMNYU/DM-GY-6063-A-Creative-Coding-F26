@@ -9,3 +9,4 @@ The following example logic may be helpful as you determine how to create your p
 - Once you have a repeating pattern that fills the entire canvas, experiment with ways of shifting the color, style or transformation of the shapes as they advance down the Y axis
 - Experiment with ways of incorporating mouse input to manipulate an aspect of the drawing (color, size of certain elements, transformations, etc).
 - revise it for a pen plotter using the [svg library](https://github.com/golanlevin/p5.plotSvg)
+- if you wish to set up your own computer to use the plotter, [refer to this guide](iDraw_Setup_Guide.html)
