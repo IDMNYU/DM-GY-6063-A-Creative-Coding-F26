@@ -1,5 +1,6 @@
 ## Week 4
 ### Topics
+- [Randomness and Order](https://drive.google.com/file/d/1d_BtafNNr0xXvzKiezVRZV2TMaS_e3WH/view?usp=drive_link)
 - Perlin Noise
 - functions
 - libraries
