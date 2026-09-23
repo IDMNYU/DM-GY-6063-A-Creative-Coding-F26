@@ -16,8 +16,8 @@
 - **Assignment**: [Iteration Generation II](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 4]()
+- [IDM Creative Coding Week 4](https://notebook.google.com/notebook/ba0c7aeb-ba4c-42ec-ab28-fd1e014279bb)
 
 ### Reading:  
-- Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 2 "Randomness" (~10 pp, image-heavy)
+- [Randomness](https://drive.google.com/file/d/1TZ6kvu5A41qZcbVF52lvobiXQlGnb7zG/view?usp=sharing), from Montfort, Nick & Baudoin, Patsy & Bell, John & Bogost, Ian & Douglass, Jeremy & Marino, Mark & Mateas, Michael & Reas, Casey & Sample, Mark & Vawter, Noah. (2012). 10 PRINT CHR$(205.5+RND(1));:GOTO 10. 10.7551/mitpress/9040.001.0001. 
 

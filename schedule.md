@@ -33,8 +33,6 @@
 ### [Week 04 (2026/09/23)](week4/)
 - Perlin Noise, plotters, randomness, libraries
 - **Assignment**: iterative plotting
-- **Reading**: 
-    - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 2 "Randomness" (~10 pp, image-heavy)
 
 ### [Week 05 (2026/09/30)](week5/)
 - Animation & Sprites & time
