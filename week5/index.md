@@ -2,10 +2,12 @@
 ### Topics
 - Animation
 - Time
+- Arrays
 
 ### Review
 - [arrays](https://idmp5.github.io/coding/arrays/)
 - [cycles](https://idmp5.github.io/creative-coding/cycles/)
+- [sin & cos](https://idmp5.github.io/creative-coding/sincos/)
 
 ### Assignment
 - [Clocks!](assignment.html)

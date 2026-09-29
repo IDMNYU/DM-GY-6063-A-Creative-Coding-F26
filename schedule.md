@@ -39,6 +39,7 @@
 ### [Week 05 (2026/09/30)](week5/)
 - Animation
 - Time
+- Arrays and more repition
 - **Assignment**: Clocks
 - **Reading**: 
   - [A Brief History of (Modern) Time](https://web.archive.org/web/20220103135128/https://www.theatlantic.com/technology/archive/2015/12/the-creation-of-modern-time/421419/) Ian P. Beacock, Archived from the Atlantic
