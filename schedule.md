@@ -39,26 +39,31 @@
 ### [Week 05 (2026/09/30)](week5/)
 - Animation
 - Time
-- Arrays and more repition
+- Arrays and more repetition
 - **Assignment**: Clocks
 - **Reading**: 
   - [A Brief History of (Modern) Time](https://web.archive.org/web/20220103135128/https://www.theatlantic.com/technology/archive/2015/12/the-creation-of-modern-time/421419/) Ian P. Beacock, Archived from the Atlantic
   - [A Minor History Of / Time without Clocks](https://www.cabinetmagazine.org/issues/29/foer.php) Joshua Foer, Cabinet Magazine
 
 ### [Week 06 (2026/10/7)](week6/)
-- functions and arrays
+- Parameters
+- more about arrays
+- review of everything so far
 - **Assignment**: Looping animations
 - **Reading**: 
   - Up and Down the Ladder of Abstraction, Bret Victor
 
 ### [Week 07 (2026/10/21)](week7/)
-- Objects, projection mapping
+- Objects
+- projection mapping
 - **Assignment**: Projection mapping
 - **Reading**: 
   - The Poetics of Augmented Space, Lev Manovitch
 
 ### [Week 08 (2026/10/28)](week8/)
-- Cameras and images
+- cameras
+- video
+- images
 - **Assignment**: Using the camera as an input device
 - **Reading**:
   - "In Defense of the Poor Image" by Hito Steyerl
@@ -77,12 +82,13 @@
   - Alexander, Amy, and Nick Collins. “Live Audiovisuals.”
 
 ### [Week 11 (2026/11/18)](week11/)
-- pulling data from other sources (API intro)
+- Pulling data from other sources (API intro)
 - **Assignment**: Data Viz
 - **Reading**: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
 
 ### [Week 12 (2026/11/25)](week12/)
-- Machine learning systems, Teachable Machine
+- Machine learning systems
+- Teachable Machine
 - **Assignment**: Working with models
 - **Reading**: 
   - Excavating AI By Kate Crawford and Trevor Paglen   
