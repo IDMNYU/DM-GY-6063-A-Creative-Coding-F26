@@ -37,12 +37,12 @@
   - [Randomness](https://drive.google.com/file/d/1TZ6kvu5A41qZcbVF52lvobiXQlGnb7zG/view?usp=sharing), from Montfort, Nick & Baudoin, Patsy & Bell, John & Bogost, Ian & Douglass, Jeremy & Marino, Mark & Mateas, Michael & Reas, Casey & Sample, Mark & Vawter, Noah. (2012). 10 PRINT CHR$(205.5+RND(1));:GOTO 10. 10.7551/mitpress/9040.001.0001. 
 
 ### [Week 05 (2026/09/30)](week5/)
-- Animation & Sprites & time
+- Animation
+- Time
 - **Assignment**: Clocks
-- **Reading**:
-  - Clocks by Golan Levin
-- **Watch**: An entire history of time measurement in six minutes
-
+- **Reading**: 
+  - [A Brief History of (Modern) Time](https://web.archive.org/web/20220103135128/https://www.theatlantic.com/technology/archive/2015/12/the-creation-of-modern-time/421419/) Ian P. Beacock, Archived from the Atlantic
+  - [A Minor History Of / Time without Clocks](https://www.cabinetmagazine.org/issues/29/foer.php) Joshua Foer, Cabinet Magazine
 
 ### [Week 06 (2026/10/7)](week6/)
 - functions and arrays
