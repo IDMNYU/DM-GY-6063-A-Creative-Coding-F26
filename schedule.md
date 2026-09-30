@@ -37,7 +37,6 @@
   - [Randomness](https://drive.google.com/file/d/1TZ6kvu5A41qZcbVF52lvobiXQlGnb7zG/view?usp=sharing), from Montfort, Nick & Baudoin, Patsy & Bell, John & Bogost, Ian & Douglass, Jeremy & Marino, Mark & Mateas, Michael & Reas, Casey & Sample, Mark & Vawter, Noah. (2012). 10 PRINT CHR$(205.5+RND(1));:GOTO 10. 10.7551/mitpress/9040.001.0001. 
 
 ### [Week 05 (2026/09/30)](week5/)
-- Animation
 - Time
 - Arrays and more repetition
 - **Assignment**: Clocks
