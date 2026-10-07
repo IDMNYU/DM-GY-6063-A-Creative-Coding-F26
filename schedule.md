@@ -45,10 +45,10 @@
   - [A Minor History Of / Time without Clocks](https://www.cabinetmagazine.org/issues/29/foer.php) Joshua Foer, Cabinet Magazine
 
 ### [Week 06 (2026/10/7)](week6/)
-- Parameters
 - more about arrays
+- Parameters
 - review of everything so far
-- **Assignment**: Looping animations
+- **Assignment**: continue with your clocks
 - **Reading**: 
   - Up and Down the Ladder of Abstraction, Bret Victor
 
