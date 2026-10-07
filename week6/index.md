@@ -10,6 +10,13 @@
 - [more on arrays](https://idmnyu.github.io/p5-fundamentals/coding/advanced-arraying/)
 - [javascript objects](https://idmp5.github.io/coding/objects/)
 
+### Additional Resources
+- [W3 HTML and CSS Tutorial](https://www.w3schools.com/htmlcss/default.asp)
+- [HTML & CSS Guidebook](https://htmlandcssguidebook.com)
+- [Getting to know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+- [Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+- [The HTML Review](https://thehtml.review/)
+
 ### Assignment
 - **Assignment**: 
   - [Continue your clocks](../week5/assignment.html)
