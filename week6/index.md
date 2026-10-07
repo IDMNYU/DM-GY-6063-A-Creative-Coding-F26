@@ -11,7 +11,7 @@
 - [javascript objects](https://idmp5.github.io/coding/objects/)
 
 ### Assignment
-- **Assignment**: [Continue your clocks]
+- **Assignment**: [Continue your clocks](../week5/assignment.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 6](https://notebook.google.com/notebook/e2836063-3a2e-4de2-b936-6d67b5cbd377)
