@@ -1,7 +1,5 @@
 ## Projection Mapping
 
-[Click here to download the p5.mapper template folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fcraigfahner%2FCC2025-cef9489%2Ftree%2Fmain%2Fp5-mapper-template) (save it into your course repo)
-
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area
 - Set up your scene within this projectable area
