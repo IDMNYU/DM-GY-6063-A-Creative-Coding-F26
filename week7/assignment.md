@@ -1,15 +1,18 @@
 ## Projection Mapping
 
+### Set up your environment
+- Add the p5.mapper library to your index.html with the following line `<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/jdeboi/p5.mapper@main/dist/p5.mapper.min.js"></script>`
+- Alternatively, [download this template](https://github.com/shfitz/code-for-dm-gy-6063/tree/main/Week7/03_5_real_simple_mapping):
+
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area
 - Set up your scene within this projectable area
 - Try to be conscious of the coverage of all the surfaces on which you intend to project
-  - Make sure, for instance, that the tops of any pedestals are being hit by the projector, if you want to project onto them
+  - Make sure, for instance, that the tops of any pedestals or boxes are being hit by the projector, if you want to project onto them
 - Be mindful of shadows cast by the projector onto objects in your scene. Arrange your objects so that they aren’t casting visible shadows on one another
 - Label your surfaces with a post-it note (0, 1, 2, 3, 4 etc) – we will create functions in p5.js that correspond with each surface
 
 ### Experiment with mapping a single surface
-- Once you’ve added the template folder to your repo, rename it to “p5-mapper-workshop”
 - Create a single “quad” projection surface in p5.mapper:
   - In setup:
     ![Screenshot of the p5 setup function](media/1.png)
@@ -36,3 +39,6 @@
 ![Screenshot of code](media/5.png)
 - Notice that every p5-related function has “pg.” in front of it. “pg” is being passed through the mySketch function as a specific “instance” of p5.js. To ensure we are only addressing our mini-sketch and not the bigger sketch within which it is contained, use the “pg.” reference when you are writing your individual sketches within p5.mapper functions.
 - Be conscious of the dimensions you initially assigned when setting up your surfaces, as you’ll refer to this size when positioning things in your mini-sketches.
+
+
+- post your projection mapping sketch to your github repo. Take photos and/or video and post it in your README for the weeek describing what you did.
