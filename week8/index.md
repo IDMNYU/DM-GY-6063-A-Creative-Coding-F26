@@ -7,6 +7,9 @@
 - Cameras
 - Videos
 
+### code from class
+- [Week 8](https://github.com/shfitz/code-for-dm-gy-6063/tree/main/Week8)
+
 ### Review
 - [images](https://idmp5.github.io/creative-coding/images/)
 - [video](https://idmp5.github.io/creative-coding/videos/)
