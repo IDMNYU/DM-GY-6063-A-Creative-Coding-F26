@@ -63,7 +63,7 @@
 - cameras
 - video
 - images
-- **Assignment**: Using the camera as an input device
+- **Assignment**: Self-portrait
 - **Reading**:
   - "In Defense of the Poor Image" by Hito Steyerl
 

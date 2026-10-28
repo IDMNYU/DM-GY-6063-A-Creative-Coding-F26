@@ -1,8 +1,11 @@
 ## Week 8
 ### Topics
-- Cameras
-- Images
+- review projection work
+- questions about classes?
 - asynch and wait
+- Images
+- Cameras
+- Videos
 
 ### Review
 - [images](https://idmp5.github.io/creative-coding/images/)
