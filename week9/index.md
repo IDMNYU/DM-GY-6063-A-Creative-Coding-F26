@@ -1,12 +1,18 @@
 ## Week 9
 ### Topics
-- gestural interaction
+- gestural interaction [slides](https://docs.google.com/presentation/d/1kArWcKlOEoP1S3gRJRBZq-cISl_-b-pLcjWOa0xBs8o/edit?usp=drive_link)
 - machine learning and ml5.js
 
 ### Review
 - [Intro to Neural Nets](https://idmnyu.github.io/p5-fundamentals/ai/neural-nets/)
 - [Concurrency](https://idmnyu.github.io/p5-fundamentals/ai/concurrency/)
 - [ml5.js](https://idmnyu.github.io/p5-fundamentals/ai/ml5/)
+
+### Links
+- [ml5.js](https://ml5js.org)
+
+### Code
+- [in-class examples](https://github.com/shfitz/code-for-dm-gy-6063/tree/main/Week9)
 
 ### Assignment
 - **Assignment**: [gestural control](assignment.html)
