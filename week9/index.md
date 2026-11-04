@@ -1,7 +1,7 @@
 ## Week 9
 ### Topics
 - gestural interaction
-- machine learnign and ml5.js
+- machine learning and ml5.js
 
 ### Review
 - [Intro to Neural Nets](https://idmnyu.github.io/p5-fundamentals/ai/neural-nets/)
@@ -12,8 +12,8 @@
 - **Assignment**: [gestural control](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 9]()
+- [IDM Creative Coding Week 9](https://notebook.google.com/notebook/b7b0a1c8-3362-4525-a384-6779996fa28a)
 
 ### Reading:  
-- [Rokeby "Transforming Mirrors"](http://www.davidrokeby.com/mirrors.html) 
+- [Agre, Philip. The Soul Gained and Lost, 1995. https://pages.gseis.ucla.edu/faculty/agre/shr.html.](https://pages.gseis.ucla.edu/faculty/agre/shr.html) 
 
