@@ -72,7 +72,7 @@
 - gestural interaction
 - **Assignment**: gestural control
 - **Reading**: 
-  - Rokeby "Transforming Mirrors"
+  - Agre, Philip. The Soul Gained and Lost, 1995. https://pages.gseis.ucla.edu/faculty/agre/shr.html.
 
 ### [Week 10 (2026/11/11)](week10/)
 - Audio Input and Visualization
