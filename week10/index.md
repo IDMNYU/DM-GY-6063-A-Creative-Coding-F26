@@ -1,8 +1,12 @@
 ## Week 10
 ### Topics
+- [slides](https://docs.google.com/presentation/d/1noAzlvJbxHmbWc3fRssFmmgXCXmviH7n7LkU74uHeZ4/edit?usp=sharing)
 - Sound files
 - sound processing
 - Sound synthesis
+
+### Code
+- [Week10](https://github.com/shfitz/code-for-dm-gy-6063/tree/main/Week10)
 
 ### Review
 - [p5 sound reference](https://p5js.org/reference/p5.sound/)

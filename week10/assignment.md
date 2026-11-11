@@ -1,11 +1,16 @@
 ## Sound
 
-Create an “audiovisual instrument” that allows a performer to produce tightly coupled sound and visuals. Your software should make possible the creation of both dynamic imagery and noise/sound/music, simultaneously, in real time.
+_Option 1_: (adapted from _Code as a Creative Medium_)Create a performative "audiovisual instrument" that allows a performer to produce tightly coupled sound and visuals. Your sketch should facilitate the creation of dynamic imagery and noise/sound/music in real time. 
 
-You are challenged to create an open-ended system in which sonic and visual modalities are equally expressive. Its results should be inexhaustible, deeply variable, and contingent on the performer's choices, and the basic principles of its operation should be easy to deduce, yet also allow for sophisticated expression. Interactions with your instrument should generate predictable results. 
+The insturment should be easy to undersatand and complex in its depth— a minute to lear, a lifetime to master.
+Think about the input— will the performner use a keyboard, moyse, or maybe a gestural interface using hand or fac tractng? Think through various possibilities offered by different visual variables like hue, saturation, texture, shape, and motion, and different auditory elements including pitch, dynamics, timbre, scales, and rhythm. Link these sonic and visual elements together by establishing mappings between your system's input and output. For example: the faster the performer moves her cursor, the brighter her cursor appears, and the higher the pitch of a synthesized tone. 
 
-Assume your instrument receives input from the actions and gestures of a performer. Will they use a keyboard, mouse, multi-touch trackpad, pose tracker, or a less common sensor? Select (or construct) your instrument's physical interface with care, giving consideration to its expressive affordances. Categorize the data streams it provides: are these continuous values, or changes in logical states? Do they have a perceptible duration, and are they persistent or instantaneous? Are they one-, two-, three-, or four-dimensional? 
+Practice playing the insturment for at leat 3 days in a row for 15 minutes at a stretch. Can you gain mastery over it? 
 
-Assume your instrument generates output for a graphic display and audio system. Think through the possibilities offered by different visual variables like hue, saturation, texture, shape, and motion, and different auditory elements including pitch, dynamics, timbre, scales, and rhythm. Link these sonic and visual elements together by establishing mappings between your system's input and output. For example: the faster the performer moves her cursor, the brighter her cursor appears, and the higher the pitch of a synthesized tone. Such mappings help set up expectations that can be manipulated by a performer to create contrast, tension, surprise, and even humor.
+Write up a description of the insturment in your README. What are the expressive qualities you are capturing, how does the input map to the sonic and visual output? 
 
-Attune us to your instrument's unique expressive qualities by using it in a brief performance. One suggestion for structuring this performance is to begin with an expository demonstration of your instrument's interface, guiding the audience into understanding how it operates before presenting more complex material. The repetition and subsequent elaboration of themes is also a helpful compositional strategy.
+_Option 2_: Using a soundfile of your choice, create an audio visualizer that gives you expressive control of a synestastic experience - that is, can you map sound and image togetyer in a way that makes them feel like they are meaningfully connected? You are essentially building a VJ applixation to perform visuals times with music. You will need to consider interface objects (sliders, buttons, dropdown menus) as well as the overall aesthetic experience. 
+
+Practice with your interface with three different songs on three different days. Can you find settings that conform to how the song makes you feel? 
+
+Write up a description of the insturment in your README. What are the visual qualities you are capturing and pairing with the music, how do yyour controls enable or hinder your expression?
