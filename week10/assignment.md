@@ -1,1 +1,11 @@
 ## Sound
+
+Create an “audiovisual instrument” that allows a performer to produce tightly coupled sound and visuals. Your software should make possible the creation of both dynamic imagery and noise/sound/music, simultaneously, in real time.
+
+You are challenged to create an open-ended system in which sonic and visual modalities are equally expressive. Its results should be inexhaustible, deeply variable, and contingent on the performer's choices, and the basic principles of its operation should be easy to deduce, yet also allow for sophisticated expression. Interactions with your instrument should generate predictable results. 
+
+Assume your instrument receives input from the actions and gestures of a performer. Will they use a keyboard, mouse, multi-touch trackpad, pose tracker, or a less common sensor? Select (or construct) your instrument's physical interface with care, giving consideration to its expressive affordances. Categorize the data streams it provides: are these continuous values, or changes in logical states? Do they have a perceptible duration, and are they persistent or instantaneous? Are they one-, two-, three-, or four-dimensional? 
+
+Assume your instrument generates output for a graphic display and audio system. Think through the possibilities offered by different visual variables like hue, saturation, texture, shape, and motion, and different auditory elements including pitch, dynamics, timbre, scales, and rhythm. Link these sonic and visual elements together by establishing mappings between your system's input and output. For example: the faster the performer moves her cursor, the brighter her cursor appears, and the higher the pitch of a synthesized tone. Such mappings help set up expectations that can be manipulated by a performer to create contrast, tension, surprise, and even humor.
+
+Attune us to your instrument's unique expressive qualities by using it in a brief performance. One suggestion for structuring this performance is to begin with an expository demonstration of your instrument's interface, guiding the audience into understanding how it operates before presenting more complex material. The repetition and subsequent elaboration of themes is also a helpful compositional strategy.
