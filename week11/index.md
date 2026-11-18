@@ -1,7 +1,7 @@
 ## Week 11
 ### Topics
-- pulling data from other sources (API intro)
-- [Final Project] prompt
+- pulling data from other sources (API intro) 
+- [slides](https://docs.google.com/presentation/d/1iG_UA-X0Q-_xOqvN-u6J5yjdh2iz8Llaqf0b8IX8toA/edit?usp=sharing)
 
 ### Review
 - [loading data](https://idmp5.github.io/creative-coding/data/)
