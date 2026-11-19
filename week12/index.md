@@ -1,5 +1,6 @@
 ## Week 12
 ### Topics
+- [Final Project proposals](../final_project.html)
 - Machine learning systems
 - Teachable Machine
 

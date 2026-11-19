@@ -10,7 +10,8 @@
 - [Week 11](https://github.com/shfitz/code-for-dm-gy-6063/tree/main/Week11)
 
 ### Assignment
-- **Assignment**: [Data Visualization](assignment.html)
+- [Data Visualization](assignment.html)
+- [Final Project proposal](../final_project.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 11](https://notebook.google.com/notebook/290c280c-b58b-44da-a6be-b2d50f373b30)
